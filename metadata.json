@@ -1,0 +1,7 @@
+{
+    "name": "Skyblock",
+    "version": "1.1",
+    "description": "Useful features for skyblock",
+    "author": "InfinityI",
+    "entry": "index.js"	
+}
